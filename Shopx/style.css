@@ -1,0 +1,593 @@
+*{
+	padding:0;
+	margin:0;
+}
+.icon-search{
+	padding-top:85px;
+}
+.logo{
+	padding-top:52px;
+	text-align:center;
+	padding-bottom:37px;
+}
+.shortcutkey{
+	padding-top:65px;
+}
+.fa-user-circle{
+	color:#151515;
+	padding-right:27px;
+}
+.fa-cart-plus{
+	color:#222;
+	position:relative;
+	padding-top:10px;
+	padding-right:27px;
+}
+.badge-light{
+	background:#000000;
+	color:#fff;
+	top:0;
+	right:17px;
+	position:absolute;
+	border-radius:50%;
+}
+.btn-primary{
+	background:#fff;
+	border:none;
+}
+.dropdown-item{
+	border:none;
+}
+.fa-align-right{
+	color:#000;
+}
+.fa-search{
+	padding-right:14px;
+}
+.header-a{
+	background:#f1f1f1;
+	padding:1px;
+	width:100%;
+}
+.list-a{
+	border-top:1px solid #f1f1f1;
+	text-align:center;
+	padding-top:70px;
+	font-family:Roboto;
+}
+.link-a:hover{
+	color:#8ed1b7;
+	text-decoration:underline;
+	
+}
+.link-a{
+	font-size:0.6875rem;
+	line-height:1.5rem;
+	letter-spacing:3px;
+	padding-bottom:27px;
+	color:#45505e;
+}
+/* New arrivals */
+.img {
+    width: 100%;
+    height: 600px;
+}
+.new{
+	color:#fff;
+	font-family:'Alex Brush',cursive;
+	font-size:4.5625rem;
+}
+.arrivals{
+	padding-left:18px;
+	letter-spacing:3px;
+	font-family: 'Titillium Web', sans-serif;
+	font-size:1.25rem;
+}
+.background-x{
+	position:relative;
+}
+.main-b{
+	left:480px;
+	position:absolute;
+	padding:192px 0;
+}
+.sky{
+	color:#fff;
+	position:relative;
+	padding-top:24px;
+	padding-bottom:47px;
+	font-size:4.5rem;
+	line-height:1.5rem;
+	font-family: 'Titillium Web', sans-serif;
+}
+.money{
+	color:#fff;
+	top:10px;
+	position:absolute;
+	padding-left: 6px;
+	font-size:1.5rem;
+	line-height:1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+.shopnow{
+	font-size:1.125rem;
+	line-height:1.5rem;
+	color:red;
+	font-family: 'Roboto', sans-serif;
+}
+/* LONG */
+.bgr{
+	background:#f7f7f7;
+}
+.special-x{
+	padding-top:100px;
+	border-top: 1px solid #f1f1f1;
+}
+.one{
+	font-size:0.6875rem;
+	line-height:1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+.one:hover{
+	text-decoration:none;
+}
+.icon-a{
+	padding-top:10px;
+	padding-right:29px;
+}
+.nav-tabs{
+	border-color:#fff;
+}
+.menu{
+	padding-top:60px;
+	padding-bottom:27px;
+}
+.fa-indent{
+	color:#000;
+}
+.icon-main-aaa{
+	width:265px;
+	height:256px;
+}
+.icon-main-a{
+	padding-left:37px;
+	padding-top:29px;
+}
+.fa-heart{
+	color:#f33;
+	padding-top:40px;
+	padding-bottom:28px;
+}
+.product{
+	position:relative;
+	width:360px;
+	height:513px;
+	box-shadow: 0 0px 25px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+}
+.text-a{
+	padding-bottom:20px;
+	padding-left:24px;
+	padding-top:55px;
+	font-size:1.4375rem;
+	line-height:1.5rem;
+	font-family: 'Titillium Web', sans-serif;
+}
+.text-b{
+	padding-bottom:35px;
+	padding-left:34px;
+	color:#8ed1b7;
+	font-size:0.875rem;
+	line-height:1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+.text-bb{
+	color:#000;
+	text-decoration:line-through;
+	padding-right:12px;
+}
+.text-mid{
+background:#eee;
+	padding:1px;
+	width:80%;
+}
+.text-c{
+	padding-top:39px;
+	padding-left:24px;
+	font-size:0.75rem;
+	line-height:1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+.copy{
+	padding-top:37px;
+	padding-bottom:176px;
+}
+/* slide */
+.special-img{
+	width:350px;
+	height:350px;
+	border:1px solid orange;
+	border-radius:10%;
+	position:absolute;
+	bottom:190px
+}
+.text-d{
+	left:-75px;
+	opacity:0.7;
+	position:relative;
+	background:#e7a8c6;
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	margin-top:480px;
+}
+.text-da{
+	text-decoration: line-through;
+    left: 17px;
+    position: absolute;
+    top: 30px;
+	font-size: 1.4rem;
+}
+.text-db{
+	color:#fff;
+	left: 15px;
+    top: 45px;
+	position:absolute;
+	font-size: 2.5rem;
+}
+.layer-a{
+	position:relative;
+}
+.text-f{
+	
+	background-image:url("image/backg.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:771px;
+}
+.layer-aa{
+	left:-50px;
+	right:-150px;
+	height:661px;
+	top:60px;
+	position:absolute;
+}
+.text-ea{
+	left:-170px;
+    font-size: 2rem;
+    line-height: 1.5rem;
+    top: 424px;
+    transform: rotate(-90deg);
+    position: absolute;
+	font-family: 'Titillium Web', sans-serif;
+}
+.text-fa{
+	letter-spacing:12px;
+	padding-left:25px;
+	padding-top:68px;
+	color:#86c5ac;
+	line-height:1.5rem;
+	font-size:10.5rem;
+}
+.layer-b{
+	width:548px;
+	height:560px;
+	top: 121px;
+	left:96px;
+	position:absolute;
+}
+.text-g{
+	top:275px;
+    position: absolute;
+    left: 55px;
+}
+.text-ga{
+	line-height:1.5rem;
+	font-size:0.67rem;
+	font-family: 'Roboto', sans-serif;
+	color:#fff;
+}
+.text-gb{
+	line-height:1.5rem;
+	font-size:1.435rem;
+	color:#ededde;
+}
+.text-gc{
+	line-height:1.5rem;
+	padding-top:25px;
+	padding-bottom:25px;
+	font-size:0.875rem;
+	font-family: 'Roboto', sans-serif;
+	color:#fff;
+}
+.text-gd{
+	line-height:1.5rem;
+	font-size:0.67rem;
+	text-decoration:underline;
+	font-family: 'Roboto', serif;
+	color:red;
+}
+.icon-special{
+	text-align:center;
+	padding-top:40px;
+	background:#1d1e24;
+	padding-bottom:50px;
+}
+.icon-o{
+	color:#343640;
+	font-size:3.6875rem;
+}
+.text-h{
+	padding-top:46px;
+	color:#fff;
+	font-size:1.125rem;
+	line-height:1.5rem;
+}
+.text-i{
+	color:#767676;
+	font-size:0.875rem;
+	line-height:1.5rem;
+}
+/* end section */
+.logo-a{
+    padding-top: 130px;
+	padding-bottom: 25px;
+}
+.text-k{
+	color:#7b7c85;
+}
+.readmore{
+	color:#7b7c85;
+}
+.text-l{
+	padding-bottom:10px;
+	font-size:1.3rem;
+	font-family: 'Titillium Web', sans-serif;
+	padding-top: 90px;
+	padding-left:15px;
+	color:#1d1e24;
+}
+.img-ins{
+	width:86px;
+	height:100px;
+	margin-top:5px;
+	margin-left:5px;
+	box-shadow:0 0 50px #f4d2aa;
+}
+.link-b{
+	font-size:0.677rem;
+	color:#7b7c85;
+}
+.list-b{
+	padding-top:148px;
+}
+.instagram{
+	color:#1d1e24;
+	font-size:1.25rem;
+}
+.list-c{
+	padding-top:90px;
+	padding-left:100px;
+}
+.payment{
+	padding-top:50px;
+	padding-left:150px;
+}
+/* TEST */
+.text-fl p{
+
+    color: #d93337;
+    
+    
+    letter-spacing:20px;
+    
+    animation: text-flicker 4s linear infinite;
+    
+    }
+    
+	#off-fl{
+animation: letter-flicker 2s linear infinite;
+    
+    }
+    
+    @keyframes text-flicker {
+    
+    0% {
+    
+    opacity:0.1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    2% {
+    
+    opacity:1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    8% {
+    
+    opacity:0.1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    9% {
+    
+    opacity:1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    12% {
+    
+    opacity:0.1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    20% {
+    
+    opacity:1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    25% {
+    
+    opacity:0.3;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    30% {
+    
+    opacity:1;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    70% {
+    
+    opacity:0.7;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    72% {
+    
+    opacity:0.2;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    77% {
+    
+    opacity:0.9;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+    
+    100% {
+    
+    opacity:0.9;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkorange;
+    
+    }
+}
+/* new */
+/* Animation - Rainbow Fire */
+.css-fizzy {
+	position:absolute;
+	right:0;
+	top:165px;
+	z-index:1;
+	font-family: 'Permanent Marker', cursive;
+	font-size:1.85rem;
+	font-weight:bold;
+	margin-top:2em;
+	text-align:center;
+	color:#fff;
+	animation: css-fizzy 12s linear 0s infinite;
+}
+ 
+/* The animation code */
+@keyframes css-fizzy {
+0% {
+	text-shadow:
+	0 0 .2em #fe0702, 0 0 .2em #e30502, 0 -.2em .4em #cb0502, 0 -.4em .6em #b20501, 0 -.6em .8em #980402,
+	0 -.8em 1em #7f0301, 0 -1em 1.2em #660202, 0 -1.2em 1.4em #4c0201, 0 -1.4em 1.6em #330100,
+	 0 -1.6em 1.8em #1a0001;
+	}
+	
+9%  {
+	text-shadow:
+	0 0 .2em #ff4103, .1em .05em .2em #e53a04, .3em -.2em .4em #cc3402, -.4em -.4em .6em #b32e03, .3em -.6em .8em #992702,
+	0 -.8em 1em #802103, 0 -1em 1.2em #661a02, 0 -1.2em 1.4em #4d1401, 0 -1.4em 1.6em #330d02,
+	 0 -1.6em 1.8em #1a0700;	
+}
+	
+18%  {
+	text-shadow:
+	0 0 .2em #fe8005, -.1em -.05em .2em #e67404, -.3em -.2em .4em #ce6806, .4em -.4em .6em #b35b04, -.3em -.6em .8em #994c04,
+	0 -.8em 1em #804003, 0 -1em 1.2em #663403, 0 -1.2em 1.4em #4d2702, 0 -1.4em 1.6em #341a01,
+	 0 -1.6em 1.8em #1b0d02;	
+}
+	
+27% {
+	text-shadow:
+	0 0 .2em #ffbf08, .1em .05em .2em #e5ac07, .3em -.2em .4em #cc9806, -.4em -.4em .6em #b38607, .3em -.6em .8em #9a7407,
+	0 -.8em 1em #815f05, 0 -1em 1.2em #674d03, 0 -1.2em 1.4em #4d3a02, 0 -1.4em 1.6em #332603,
+	 0 -1.6em 1.8em #1a1301;	
+}
+		
+36% {
+	text-shadow:
+0 0 .2em #ffff07, -.1em -.05em .2em #e5e606, -.3em -.2em .4em #cbcc06, .4em -.4em .6em #b3b305, -.3em -.6em .8em #999905,
+	0 -.8em 1em #808004, 0 -1em 1.2em #666602, 0 -1.2em 1.4em #4d4d03, 0 -1.4em 1.6em #333301,
+	 0 -1.6em 1.8em #1a1a02;	
+}
+			
+45% {
+	text-shadow:
+	0 0 .2em #80ff0f, .1em .05em .2em #73e40c, .3em -.2em .4em #67cd0a, -.4em -.4em .6em #5bb309, .3em -.6em .8em #4e9908,
+	0 -.8em 1em #408006, 0 -1em 1.2em #346605, 0 -1.2em 1.4em #274d04, 0 -1.4em 1.6em #193303,
+	 0 -1.6em 1.8em #0d1901;	
+}
+				
+54% {
+	text-shadow:
+	0 0 .2em #04ff0f, -.1em -.05em .2em #04e50d, -.3em -.2em .4em #03cc0a, 0 -.4em .6em #03b30a, -.3em -.6em .8em #059809,
+	0 -.8em 1em #038008, 0 -1em 1.2em #026606, 0 -1.2em 1.4em #014d03, 0 -1.4em 1.6em #023403,
+	 0 -1.6em 1.8em #011b02;	
+}
+					
+63% {
+	text-shadow:
+	0 0 .2em #01faff, .1em .05em .2em #00e1e5, .3em -.2em .4em #01c8cd, .4em -.4em .6em #00afb2, .3em -.6em .8em #01969a,
+	0 -.8em 1em #007d7f, 0 -1em 1.2em #006466, 0 -1.2em 1.4em #004b4e, 0 -1.4em 1.6em #003233,
+	 0 -1.6em 1.8em #001a1b;	
+}
+						
+72% {
+	text-shadow:
+	0 0 .2em #0000fe, -.1em -.05em .2em #0001e5, -.3em -.2em .4em #0001cd, .4em -.4em .6em #0001b3, -.3em -.6em .8em #000199,
+	0 -.8em 1em #000180, 0 -1em 1.2em #010066, 0 -1.2em 1.4em #01004e, 0 -1.4em 1.6em #000034,
+	 0 -1.6em 1.8em #00001a;	
+}
+							
+81% {
+	text-shadow:
+	0 0 .2em #7d04ff, .1em .05em .2em #7004e5, .3em -.2em .4em #6403cc, .4em -.4em .6em #5804b2, .3em -.6em .8em #4c039a,
+	0 -.8em 1em #3f0281, 0 -1em 1.2em #320266, 0 -1.2em 1.4em #26014e, 0 -1.4em 1.6em #190133,
+	 0 -1.6em 1.8em #0d001a;	
+}
+								
+90% {
+	text-shadow:
+	0 0 .2em #fe05ff, -.1em -.05em .2em #e204e5, -.3em -.2em .4em #ca04cd, -.4em -.4em .6em #b204b3, -.3em -.6em .8em #98049a,
+	0 -.8em 1em #7f0280, 0 -1em 1.2em #660265, 0 -1.2em 1.4em #4c024d, 0 -1.4em 1.6em #330134,
+	 0 -1.6em 1.8em #1a0019;	
+}
+									
+										
+100% {
+	text-shadow:
+	0 0 .2em #fe0980, .1em .05em .2em #e50973, .3em -.2em .4em #cb0866, .4em -.4em .6em #b2065a, .3em -.6em .8em #98064d,
+	0 -.8em 1em #7f0540, 0 -1em 1.2em #660433, 0 -1.2em 1.4em #4d0326, 0 -1.4em 1.6em #33011a,
+	 0 -1.6em 1.8em #1b010e;
+}
